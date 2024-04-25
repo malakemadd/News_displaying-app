@@ -1,4 +1,4 @@
-# using_api
+# Application using flutter that displays the news using API
 
 A new Flutter project.
 
